@@ -1,6 +1,7 @@
-# Hi there, I'm Farah 👋  
-
-💻 Aspiring AI/ML Engineer | Python & C++ Developer | Project-Based Learner  
+<!-- Banner Image -->
+<p align="center">
+  <img src="Farah Tanveer.png" alt="Farah Tanveer Banner" width="1000"/>
+</p> 
 
 I enjoy building projects that combine creativity, logic, and problem-solving.  
 Currently exploring **Python projects, C++ GUI apps, and AI/ML fundamentals**.  
@@ -14,7 +15,7 @@ Currently exploring **Python projects, C++ GUI apps, and AI/ML fundamentals**.
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-green)
-![Raylib](https://img.shields.io/badge/Raylib-GameDev-yellow)
+
 
 ---
 
