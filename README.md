@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="banner.gif" alt="Farah Tanveer Banner" width="1000"/>
+  <img src="Banner.gif" alt="Farah Tanveer Banner" width="1000"/>
 </p> 
 
 I enjoy building projects that combine creativity, logic, and problem-solving.  
