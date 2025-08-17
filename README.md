@@ -33,9 +33,7 @@ Currently exploring **Python projects, C++ GUI apps, and AI/ML fundamentals**.
 
 - 🐍 [Python Mini Projects](https://github.com/Farah-Tanveer/Python-Projects)  
   *Hangman, Age Calculator, Clock Timer, Quiz Game, Number Guessing, Contact Book, and more.*  
-
-- 🎮 [Snake Game in C++ with Raylib](https://github.com/Farah-Tanveer/Snake-Game)  
-  *Classic snake game built from scratch with C++ and Raylib.*  
+ 
 
 ---
 
