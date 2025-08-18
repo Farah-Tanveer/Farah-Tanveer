@@ -38,8 +38,8 @@ Currently exploring **Python projects, C++ GUI apps, and AI/ML fundamentals**.
 ---
 
 ## 📊 Most Used Languages
-<div align="centre">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farah-Tanveer&layout=compact&theme=default)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farah-Tanveer&layout=compact&theme=tokyonight" />
 </div>
 
 ## 🏆 GitHub Trophies
