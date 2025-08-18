@@ -65,6 +65,10 @@ Currently exploring **Python projects, C++ GUI apps, and AI/ML fundamentals**.
 - 💼 LinkedIn: [Farah Tanveer](https://www.linkedin.com/in/farahtanveer/)  
 - 🏆 LeetCode: [Farah Tanveer](https://leetcode.com/u/Fara_hTanveer/)  
 
+## Profile views
+<div align="center">
+![Visitors](https://komarev.com/ghpvc/?username=Farah-Tanveer)
+</div>
 ---
 ✨ *Thanks for visiting my profile! Don’t forget to check out my repositories.*  
 
