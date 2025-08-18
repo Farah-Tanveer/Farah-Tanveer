@@ -69,8 +69,6 @@ Currently exploring **Python projects, C++ GUI apps, and AI/ML fundamentals**.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Farah-Tanveer&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="visitor badge" />
-  <br><br>
-  <img src="https://media.giphy.com/media/xTiTnuhyBF54B852nK/giphy.gif" width="50" alt="pulse animation" />
 </div>
 
 
