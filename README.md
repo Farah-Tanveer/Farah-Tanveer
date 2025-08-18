@@ -36,7 +36,7 @@ Currently exploring **Python projects, C++ GUI apps, and AI/ML fundamentals**.
  
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Farah-Tanveer)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
