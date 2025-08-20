@@ -73,5 +73,5 @@ Currently exploring **Python projects, C++ GUI apps, and AI/ML fundamentals**.
 
 
 ---
-✨ *Thanks for visiting my profile! Don’t forget to check out my repositories.*  
+> “Tech is art in motion — every solution is a brushstroke shaping tomorrow.”
 
