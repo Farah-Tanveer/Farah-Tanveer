@@ -50,9 +50,6 @@
 
 <details>
   <summary><b>See more ideas I'm exploring</b> ✨</summary>
-
-* C++ Qt/Tkinter **Taskmaster Pro** – Task manager with Pomodoro + Kanban
-* Python **Typing Tutor (Raylib)** – WPM tracking & session analytics
 * ML mini‑lab – Notebooks on NumPy → Pandas → basic models
 
 </details>
