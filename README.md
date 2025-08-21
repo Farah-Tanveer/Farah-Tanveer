@@ -18,6 +18,7 @@
   <!-- Languages & Core -->
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
   <img src="https://img.shields.io/badge/C%2B%2B-17-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" alt="C++17"/>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" alt="C"/>
   <!-- Data/ML -->
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas"/>
@@ -51,6 +52,7 @@
 <details>
   <summary><b>See more ideas I'm exploring</b> ✨</summary>
 * ML mini‑lab – Notebooks on NumPy → Pandas → basic models
+* Contribute to **open-source projects** for real-world collaboration
 
 </details>
 
