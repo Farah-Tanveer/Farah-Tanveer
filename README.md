@@ -94,13 +94,6 @@
 
 ---
 
-## 🧩 LeetCode
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Fara_hTanveer?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats"/>
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
