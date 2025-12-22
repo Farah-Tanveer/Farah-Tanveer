@@ -19,11 +19,14 @@ I enjoy building projects that strengthen my fundamentals while exposing me to r
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwind,git,github,vscode,oracle" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwind,git,github,pycharm" />
 </p>
 
 <p align="center">
-  <sub>Exploring AI/ML fundamentals with NumPy & Pandas</sub>
+  <img src="https://img.shields.io/badge/Tkinter-GUI-4B8BBE?logo=python&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=flat" />
 </p>
 
 ---
