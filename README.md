@@ -1,58 +1,53 @@
-<!-- Animated Headline -->
-
+<!-- Portfolio Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Farah+Tanveer+%F0%9F%91%8B;C%2B%2B+%7C+Python+%7C+AI%2FML+Explorer;I+build+things+that+blend+logic+with+design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3500&pause=900&color=6366F1&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Farah+Tanveer;Computer+Science+Student;C%2B%2B+%7C+Python+%7C+AI%2FML+Explorer;Building+projects+to+learn+deeply" />
 </p>
 
 <p align="center">
-  I enjoy building projects that combine <b>creativity</b>, <b>logic</b>, and <b>problem‑solving</b>.
-  <br/>
-  Currently exploring <b>Python projects</b>, <b>C++ GUI apps</b>, and <b>AI/ML fundamentals</b>.
+  <i>Turning ideas into simple, meaningful software.</i>
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## 👩‍💻 Profile
+
+I am a computer science student with a strong interest in **problem solving**, **software development**, and **continuous learning**.  
+I enjoy building projects that strengthen my fundamentals while exposing me to real-world development workflows.
+
+---
+
+## 🧰 Tech Stack
 
 <p align="center">
-  <!-- Languages & Core -->
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-17-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" alt="C++17"/>
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" alt="C"/>
-  <!-- Data/ML -->
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas"/>
-  <!-- GUI/Tools -->
-  <img src="https://img.shields.io/badge/Tkinter-GUI-4B8BBE?style=for-the-badge" alt="Tkinter"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
-  <!-- Web -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwind,git,github,vscode,oracle" />
+</p>
+
+<p align="center">
+  <sub>Exploring AI/ML fundamentals with NumPy & Pandas</sub>
 </p>
 
 ---
+
 
 ## 📂 Featured Projects
 
-* 💄 **Beauty Bliss – Online Beauty Store** <a href="https://github.com/Farah-Tanveer/Beauty-Store-Website"><img src="https://img.shields.io/badge/Repo-Beauty%20Bliss-181717?logo=github&style=flat"/></a> <a href="https://farah-tanveer.github.io/Beauty-Store-Website/"><img src="https://img.shields.io/badge/Live%20Demo-Visit-0A66C2?style=flat"/></a>
+* 💄 **Beauty Bliss – Online Beauty Store** 
+  - <a href="https://github.com/Farah-Tanveer/Beauty-Store-Website"><img src="https://img.shields.io/badge/Repo-Beauty%20Bliss-181717?logo=github&style=flat"/></a> 
+  - <a href="https://farah-tanveer.github.io/Beauty-Store-Website/"><img src="https://img.shields.io/badge/Live%20Demo-Visit-0A66C2?style=flat"/></a>
+  - *An elegant beauty e‑commerce site for hair care, skin care, and makeup products.*
 
-  *An elegant beauty e‑commerce site for hair care, skin care, and makeup products.*
+* ⛅ **Weather App** 
+  - <a href="https://github.com/Farah-Tanveer/Weather-App"><img src="https://img.shields.io/badge/Repo-Weather%20App-181717?logo=github&style=flat"/></a>
+  - *Real‑time weather updates using the OpenWeatherMap API.*
 
-* ⛅ **Weather App** <a href="https://github.com/Farah-Tanveer/Weather-App"><img src="https://img.shields.io/badge/Repo-Weather%20App-181717?logo=github&style=flat"/></a>
-
-  *Real‑time weather updates using the OpenWeatherMap API.*
-
-* 🐍 **Python Mini Projects** <a href="https://github.com/Farah-Tanveer/Python-Projects"><img src="https://img.shields.io/badge/Repo-Python%20Mini%20Projects-181717?logo=github&style=flat"/></a>
-
-  *Hangman, Age Calculator, Clock Timer, Quiz Game, Number Guessing, Contact Book, and more.*
+* 🐍 **Python Mini Projects** 
+  - <a href="https://github.com/Farah-Tanveer/Python-Projects"><img src="https://img.shields.io/badge/Repo-Python%20Mini%20Projects-181717?logo=github&style=flat"/></a>
+  - *Hangman, Age Calculator, Clock Timer, Quiz Game, Number Guessing, Contact Book, and more.*
 
 <details>
   <summary><b>See more ideas I'm exploring</b> ✨</summary>
-* ML mini‑lab – Notebooks on NumPy → Pandas → basic models
-* Contribute to **open-source projects** for real-world collaboration
-
+  * ML mini‑lab – Notebooks on NumPy → Pandas → basic models
+  * Contribute to **open-source projects** for real-world collaboration
 </details>
 
 ---
@@ -92,7 +87,6 @@
 </p>
 
 ---
-
 
 ## 🐍 Contribution Snake
 
