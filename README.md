@@ -7,6 +7,10 @@
   <i style="color:#6366F1;">Turning ideas into clean, meaningful software 💻</i>
 </p>
 
+<p align="center">
+  🌐 <b>Portfolio:</b> <a href="https://farahtanveerparwana-tech.onrender.com/">farahtanveerparwana-tech.onrender.com</a>
+</p>
+
 ---
 
 ## 👩‍💻 About Me
@@ -35,26 +39,6 @@ I love building projects that sharpen my skills and provide real-world impact. �
 
 ---
 
-## 📂 Featured Projects
-
-### 💄 Beauty Bliss – Online Beauty Store
-- <a href="https://github.com/Farah-Tanveer/Beauty-Store-Website"><img src="https://img.shields.io/badge/Repo-Beauty%20Bliss-181717?logo=github&style=flat"/></a>
-- <a href="https://farah-tanveer.github.io/Beauty-Store-Website/"><img src="https://img.shields.io/badge/Live%20Demo-Visit-6366F1?style=flat"/></a>
-- *An elegant beauty e‑commerce site for hair care, skin care, and makeup products.*
-
-### 🚗 UrbanRide – Car Rental System
-- <a href="https://github.com/Farah-Tanveer/URBANRIDE-CAR_RENTAL_SYSTEM"><img src="https://img.shields.io/badge/Repo-UrbanRide-181717?logo=github&style=flat"/></a>
-- <a href="https://github.com/Farah-Tanveer/URBANRIDE-CAR_RENTAL_SYSTEM/blob/main/livedemo.mp4"><img src="https://img.shields.io/badge/Demo-Video-6366F1?style=flat"/></a>
-- *A modern car rental system allowing users to browse, book, and manage vehicles with ease.*
-
-### ⛅ Weather App
-- <a href="https://github.com/Farah-Tanveer/Weather-App"><img src="https://img.shields.io/badge/Repo-Weather%20App-181717?logo=github&style=flat"/></a>
-- *Real-time weather updates using OpenWeatherMap API.*
-
-### 🐍 Python Mini Projects
-- <a href="https://github.com/Farah-Tanveer/Python-Projects"><img src="https://img.shields.io/badge/Repo-Python%20Mini%20Projects-181717?logo=github&style=flat"/></a>
-- *Hangman, Age Calculator, Clock Timer, Quiz Game, Number Guessing, Contact Book, and more.*
-
 <details>
   <summary><b>✨ Exploring More Ideas</b></summary>
   - ML mini-lab – From **NumPy → Pandas → Basic ML models**  
@@ -67,13 +51,8 @@ I love building projects that sharpen my skills and provide real-world impact. �
 ## 🏆 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com/?user=Farah-Tanveer&theme=radical&hide_border=true" alt="GitHub Streak"/>
-
-  <!-- GitHub Core Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Farah-Tanveer&show_icons=true&theme=radical&hide_border=true" alt="Farah's GitHub stats"/>
-
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farah-Tanveer&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
