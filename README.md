@@ -1,10 +1,10 @@
 <!-- Portfolio Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3500&pause=900&color=6366F1&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Farah+Tanveer;Web+Developer+%7C+AI%2FML+Explorer;Building+interactive+and+beautiful+web+apps;Turning+ideas+into+real-world+solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3500&pause=900&color=6366F1&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Farah+Tanveer;Web+Developer+%7C+Security+Explorer;AI%2FML+Enthusiast+%7C+Problem+Solver;Building+interactive+and+modern+web+experiences;Turning+ideas+into+real-world+solutions" />
 </p>
 
 <p align="center">
-  <i style="color:#6366F1;">Turning ideas into clean, meaningful software 💻</i>
+  <i>Turning ideas into clean, meaningful software 💻</i>
 </p>
 
 <p align="center">
@@ -15,19 +15,21 @@
 
 ## 👩‍💻 About Me
 
-Hey! I'm **Farah Tanveer**, a passionate **Computer Science student & Web Developer** exploring the realms of **software development, AI/ML, and problem-solving**.  
-I love building projects that sharpen my skills and provide real-world impact. 🌟
+Hey! I'm **Farah Tanveer**, a passionate **Computer Science student & Web Developer** exploring the worlds of **software development, cybersecurity, AI/ML, and problem-solving**.  
+I enjoy building projects that strengthen my skills while creating meaningful real-world impact. 🌟
 
 - 📚 Lifelong learner & tech enthusiast  
-- 🖥️ Exploring **Full-Stack Web Development & AI/ML**  
-- 💡 Turning ideas into projects with clean code  
+- 🌐 Exploring **Full-Stack Web Development**  
+- 🔐 Currently learning and exploring **Cybersecurity & Security Concepts**  
+- 🤖 Interested in **AI/ML and intelligent systems**  
+- 💡 Turning ideas into projects with clean and maintainable code  
 
 ---
 
-## 🧰 Tech Stack
+# 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,c,cpp,git,github,pycharm" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,nodejs,c,cpp,python,git,github,vscode" />
 </p>
 
 <p align="center">
@@ -40,35 +42,49 @@ I love building projects that sharpen my skills and provide real-world impact. �
 ---
 
 <details>
-  <summary><b>✨ Exploring More Ideas</b></summary>
-  - ML mini-lab – From **NumPy → Pandas → Basic ML models**  
-  - Contributing to **Open-Source Projects**  
-  - Learning **API integrations & Full-Stack Development**  
+  <summary><b>✨ Currently Exploring</b></summary>
+
+- 🌐 Full-Stack Development with modern web technologies  
+- 🔐 Web Security & Cybersecurity fundamentals  
+- 🤖 AI/ML mini-projects using NumPy & Pandas  
+- 🔗 API integrations & backend connectivity  
+- 🚀 Open-Source Contributions and collaborative development  
+
 </details>
 
 ---
 
-## 🏆 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Farah-Tanveer&theme=radical&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Farah-Tanveer&show_icons=true&theme=radical&hide_border=true" alt="Farah's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farah-Tanveer&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Farah-Tanveer&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+  
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farah-Tanveer&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Farah-Tanveer&theme=dracula&row=1" alt="GitHub Trophies"/>
-  </a>
+  <img width="90%" src="https://streak-stats.demolab.com?user=Farah-Tanveer&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 📊 Activity & Contributions
+# 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farah-Tanveer&theme=react-dark&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Farah-Tanveer&theme=radical&no-frame=true&row=1&margin-w=15" />
 </p>
+
+---
+
+# 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farah-Tanveer&theme=react-dark&hide_border=true" width="95%"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -80,19 +96,30 @@ I love building projects that sharpen my skills and provide real-world impact. �
 
 ---
 
-## 🤝 Connect with Me
+# 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Farah-Tanveer"><img src="https://img.shields.io/badge/GitHub-Farah--Tanveer-181717?logo=github&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/farahtanveer/"><img src="https://img.shields.io/badge/LinkedIn-Farah%20Tanveer-6366F1?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/Farah-Tanveer">
+    <img src="https://img.shields.io/badge/GitHub-Farah--Tanveer-181717?logo=github&logoColor=white&style=for-the-badge"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/farahtanveer/">
+    <img src="https://img.shields.io/badge/LinkedIn-Farah%20Tanveer-6366F1?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
 </p>
 
 ---
 
-## 👀 Visitor Counter
+# 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Farah-Tanveer&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Farah-Tanveer&label=Profile%20Views&color=6366F1&style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Technology is more than code — it's creativity, innovation, and impact combined."</i>
 </p>
 
 ---
