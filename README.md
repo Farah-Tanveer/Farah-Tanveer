@@ -13,7 +13,7 @@
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
 Hey! I'm **Farah Tanveer**, a passionate **Computer Science student & Web Developer** exploring the worlds of **software development, cybersecurity, AI/ML, and problem-solving**.  
 I enjoy building projects that strengthen my skills while creating meaningful real-world impact. 🌟
@@ -29,7 +29,7 @@ I enjoy building projects that strengthen my skills while creating meaningful re
 # 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,nodejs,c,cpp,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,nodejs,flask,mongodb,c,cpp,python,git,github,vscode" />
 </p>
 
 <p align="center">
@@ -64,14 +64,6 @@ I enjoy building projects that strengthen my skills while creating meaningful re
 
 <p align="center">
   <img width="90%" src="https://streak-stats.demolab.com?user=Farah-Tanveer&theme=radical&hide_border=true" />
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Farah-Tanveer&theme=radical&no-frame=true&row=1&margin-w=15" />
 </p>
 
 ---
@@ -114,12 +106,6 @@ I enjoy building projects that strengthen my skills while creating meaningful re
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Farah-Tanveer&label=Profile%20Views&color=6366F1&style=for-the-badge" />
-</p>
-
----
-
-<p align="center">
-  <i>"Technology is more than code — it's creativity, innovation, and impact combined."</i>
 </p>
 
 ---
