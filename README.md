@@ -28,8 +28,10 @@ I enjoy building projects that strengthen my skills while creating meaningful re
 
 # 🧰 Tech Stack
 
+# 🛠️ Technologies
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,nodejs,flask,mongodb,c,cpp,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,flask,mongodb,c,cpp,python" />
 </p>
 
 <p align="center">
@@ -37,6 +39,14 @@ I enjoy building projects that strengthen my skills while creating meaningful re
   <img src="https://img.shields.io/badge/NumPy-6366F1?logo=numpy&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Pandas-6366F1?logo=pandas&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Oracle-6366F1?logo=oracle&logoColor=white&style=flat" />
+</p>
+
+---
+
+# ⚙️ Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,mongodb" />
 </p>
 
 ---
