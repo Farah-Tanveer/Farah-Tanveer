@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  🌐 <b>Portfolio:</b> <a href="https://farahtanveer.onrender.com">farahtanveer.onrender.com</a>
+  🌐 <b>Portfolio:</b> <a href="https://farahtanveer.tech">farahtanveer.tech</a>
 </p>
 
 ---
