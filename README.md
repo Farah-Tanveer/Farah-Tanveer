@@ -16,7 +16,7 @@
 # 👩‍💻 About Me
 
 Hey! I'm **Farah Tanveer**, a passionate **Computer Science student & Web Developer** exploring the worlds of **software development, cybersecurity, AI/ML, and problem-solving**.  
-I enjoy building projects that strengthen my skills while creating meaningful real-world impact. 🌟
+I enjoy building projects that strengthen my skills while creating meaningful real-world impact.
 
 - 📚 Lifelong learner & tech enthusiast  
 - 🌐 Exploring **Full-Stack Web Development**  
