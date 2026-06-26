@@ -68,12 +68,12 @@ I enjoy building projects that strengthen my skills while creating meaningful re
 <p align="center">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=Farah-Tanveer&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=Farah-Tanveer&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
   />
 
   <img
     width="41%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farah-Tanveer&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farah-Tanveer&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true"
   />
 </p>
 
