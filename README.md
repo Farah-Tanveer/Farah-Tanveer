@@ -13,7 +13,7 @@
 
 ---
 
-# 👩‍💻 About Me
+# About Me
 
 Hey! I'm **Farah Tanveer**, a passionate **Computer Science student & Web Developer** exploring the worlds of **software development, cybersecurity, AI/ML, and problem-solving**.  
 I enjoy building projects that strengthen my skills while creating meaningful real-world impact.
@@ -26,9 +26,9 @@ I enjoy building projects that strengthen my skills while creating meaningful re
 
 ---
 
-# 🧰 Tech Stack
+# Tech Stack
 
-# 🛠️ Technologies
+# Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,flask,mongodb,c,cpp,python" />
@@ -43,7 +43,7 @@ I enjoy building projects that strengthen my skills while creating meaningful re
 
 ---
 
-# ⚙️ Tools
+# Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,mongodb" />
@@ -63,7 +63,7 @@ I enjoy building projects that strengthen my skills while creating meaningful re
 </details>
 
 ---
-# 📈 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
   <img
@@ -85,7 +85,7 @@ I enjoy building projects that strengthen my skills while creating meaningful re
 </p>
 ---
 
-# 📊 Activity Graph
+# Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farah-Tanveer&theme=react-dark&hide_border=true" width="95%"/>
@@ -93,7 +93,7 @@ I enjoy building projects that strengthen my skills while creating meaningful re
 
 ---
 
-# 🏰 Contribution Castle
+# Contribution Castle
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Farah-Tanveer/Farah-Tanveer/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
@@ -101,7 +101,7 @@ I enjoy building projects that strengthen my skills while creating meaningful re
 
 ---
 
-# 🤝 Connect With Me
+# Connect With Me
 
 <p align="center">
   <a href="https://github.com/Farah-Tanveer">
@@ -115,7 +115,7 @@ I enjoy building projects that strengthen my skills while creating meaningful re
 
 ---
 
-# 👀 Profile Views
+# Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Farah-Tanveer&label=Profile%20Views&color=6366F1&style=for-the-badge" />
