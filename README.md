@@ -1,43 +1,58 @@
 <!-- Portfolio Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3500&pause=900&color=6366F1&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Farah+Tanveer;Web+Developer+%7C+Security+Explorer;AI%2FML+Enthusiast+%7C+Problem+Solver;Building+interactive+and+modern+web+experiences;Turning+ideas+into+real-world+solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3500&pause=900&color=6366F1&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Farah+Tanveer;Full-Stack+Web+Developer;AI%2FML+Enthusiast+%7C+Problem+Solver;Building+interactive+and+modern+web+applications;Turning+ideas+into+real-world+solutions" />
 </p>
 
 <p align="center">
-  <i>Turning ideas into clean, meaningful software 💻</i>
+  <i>Turning ideas into clean, meaningful software.</i>
 </p>
 
 <p align="center">
-  🌐 <b>Portfolio:</b> <a href="https://farahtanveer.tech">farahtanveer.tech</a>
+  <strong>Portfolio:</strong>
+  <a href="https://farahtanveer.tech">farahtanveer.tech</a>
 </p>
 
 ---
+
 # About Me
 
-I'm Farah Tanveer, a Computer Science student and Web Developer working across React, jQuery, and expanding into C# and ASP.NET Core.
+I'm Farah Tanveer, a Computer Science student passionate about building modern web applications and continuously learning new technologies.
 
-I enjoy building projects that strengthen my skills while creating meaningful real-world impact, with a growing interest in cybersecurity and AI/ML.
+My primary focus is full-stack web development, while also exploring AI/ML and software security through practical projects.
 
-- 🌐 Focused on Full-Stack Web Development
-- 🔐 Exploring Cybersecurity & Security Concepts
-- 🤖 Interested in AI/ML and intelligent systems
-- 💡 Writing clean, maintainable code across frontend and backend 
+- Full-Stack Web Development
+- AI/ML Enthusiast
+- Exploring Software Security
+- Building clean, maintainable, and scalable applications
 
 ---
 
 # Tech Stack
 
-# Technologies
+### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,flask,mongodb,c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,cs,python" />
+</p>
+
+### Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,jquery" />
+</p>
+
+### Backend & Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,mongodb" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tkinter-GUI-6366F1?logo=python&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/NumPy-6366F1?logo=numpy&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Pandas-6366F1?logo=pandas&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Oracle-6366F1?logo=oracle&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=.net&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Tkinter-GUI-3776AB?logo=python&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat" />
 </p>
 
 ---
@@ -45,34 +60,35 @@ I enjoy building projects that strengthen my skills while creating meaningful re
 # Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,mongodb" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
 </p>
 
 ---
 
 <details>
-  <summary><b>✨ Currently Exploring</b></summary>
+<summary><strong>Currently Learning</strong></summary>
 
-- 🌐 Full-Stack Development with modern web technologies  
-- 🔐 Web Security & Cybersecurity fundamentals  
-- 🤖 AI/ML mini-projects using NumPy & Pandas  
-- 🔗 API integrations & backend connectivity  
-- 🚀 Open-Source Contributions and collaborative development  
+- ASP.NET Core
+- Full-Stack Development
+- AI/ML Fundamentals
+- API Development
+- Open Source Collaboration
 
 </details>
 
 ---
+
 # GitHub Analytics
 
 <p align="center">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=Farah-Tanveer&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=Farah-Tanveer&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
   />
 
   <img
     width="41%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farah-Tanveer&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farah-Tanveer&layout=compact&theme=radical&hide_border=true&langs_count=8"
   />
 </p>
 
@@ -82,6 +98,7 @@ I enjoy building projects that strengthen my skills while creating meaningful re
     src="https://streak-stats.demolab.com?user=Farah-Tanveer&theme=radical&hide_border=true"
   />
 </p>
+
 ---
 
 # Activity Graph
@@ -92,7 +109,7 @@ I enjoy building projects that strengthen my skills while creating meaningful re
 
 ---
 
-# Contribution Castle
+# Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Farah-Tanveer/Farah-Tanveer/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
@@ -100,7 +117,7 @@ I enjoy building projects that strengthen my skills while creating meaningful re
 
 ---
 
-# Connect With Me
+# Connect
 
 <p align="center">
   <a href="https://github.com/Farah-Tanveer">
@@ -108,7 +125,7 @@ I enjoy building projects that strengthen my skills while creating meaningful re
   </a>
 
   <a href="https://www.linkedin.com/in/farahtanveer/">
-    <img src="https://img.shields.io/badge/LinkedIn-Farah%20Tanveer-6366F1?logo=linkedin&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Farah%20Tanveer-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
 
@@ -117,11 +134,11 @@ I enjoy building projects that strengthen my skills while creating meaningful re
 # Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Farah-Tanveer&label=Profile%20Views&color=6366F1&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Farah-Tanveer&label=Profile+Views&color=6366F1&style=for-the-badge"/>
 </p>
 
 ---
 
 <p align="center">
-  <i style="color:#6366F1;">“Tech is art in motion — every solution is a brushstroke shaping tomorrow.”</i>
+<i>"Tech is art in motion — every solution is a brushstroke shaping tomorrow."</i>
 </p>
