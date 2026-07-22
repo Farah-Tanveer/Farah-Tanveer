@@ -12,17 +12,16 @@
 </p>
 
 ---
-
 # About Me
 
-Hey! I'm **Farah Tanveer**, a passionate **Computer Science student & Web Developer** exploring the worlds of **software development, cybersecurity, AI/ML, and problem-solving**.  
-I enjoy building projects that strengthen my skills while creating meaningful real-world impact.
+I'm Farah Tanveer, a Computer Science student and Web Developer working across React, jQuery, and expanding into C# and ASP.NET Core.
 
-- 📚 Lifelong learner & tech enthusiast  
-- 🌐 Exploring **Full-Stack Web Development**  
-- 🔐 Currently learning and exploring **Cybersecurity & Security Concepts**  
-- 🤖 Interested in **AI/ML and intelligent systems**  
-- 💡 Turning ideas into projects with clean and maintainable code  
+I enjoy building projects that strengthen my skills while creating meaningful real-world impact, with a growing interest in cybersecurity and AI/ML.
+
+- 🌐 Focused on Full-Stack Web Development
+- 🔐 Exploring Cybersecurity & Security Concepts
+- 🤖 Interested in AI/ML and intelligent systems
+- 💡 Writing clean, maintainable code across frontend and backend 
 
 ---
 
