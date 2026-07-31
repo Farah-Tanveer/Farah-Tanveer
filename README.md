@@ -46,8 +46,8 @@ My primary focus is full-stack web development, while also exploring AI/ML and s
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flask,mongodb" />
-</p>
-
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server" width="40" height="40"/>
+  
 <p align="center">
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=.net&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=flat" />
