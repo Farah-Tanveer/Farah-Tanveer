@@ -1,4 +1,4 @@
-<!-- Portfolio 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3500&pause=900&color=6366F1&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Farah+Tanveer;Full-Stack+Web+Developer;AI%2FML+Enthusiast+%7C+Problem+Solver;Building+interactive+and+modern+web+applications;Turning+ideas+into+real-world+solutions" />
 </p>
