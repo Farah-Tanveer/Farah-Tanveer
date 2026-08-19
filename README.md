@@ -140,5 +140,5 @@ My primary focus is full-stack web development, while also exploring AI/ML and s
 ---
 
 <p align="center">
-<i>"Tech is art in motion — every solution is a brushstroke shaping tomorrow."</i>
+<i>"Tech is art in motion every solution is a brushstroke shaping tomorrow."</i>
 </p>
