@@ -16,7 +16,7 @@
 
 # About Me
 
-I'm Farah Tanveer, a Computer Science student passionate about building modern web applications and continuously learning new technologies.
+I'm Farah Tanveer, a *Computer Science* student passionate about building modern web applications and continuously learning new technologies.
 
 My primary focus is full-stack web development, while also exploring AI/ML and software security through practical projects.
 
